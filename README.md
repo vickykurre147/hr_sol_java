@@ -1,2 +1,1 @@
-# hr_sol_java
-
+# VICKY_HACKER_RANK_SOLUTION_JAVA
